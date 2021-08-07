@@ -15,8 +15,8 @@
  pngに変換すると元ファイルは削除されてpngに置き換わります。
  ゴミ箱にも残らないので注意</font>
 ```
-
+<br>
 参考：
-
-  [qiita:Macで簡単に画像の背景とかを透明化(透過)する方法](https://qiita.com/na1412/items/90a9641d9644e1bfbb49m)
-
+<br> [qiita:Macで簡単に画像の背景とかを透明化(透過)する方法](https://qiita.com/na1412/items/90a9641d9644e1bfbb49m)
+<br>
+[トップページに戻る](https://kitanotamotsu.github.io/)
