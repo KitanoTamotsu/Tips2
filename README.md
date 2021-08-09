@@ -19,5 +19,5 @@
 <br>
 参考：
 <br> [qiita:Macで簡単に画像の背景とかを透明化(透過)する方法](https://qiita.com/na1412/items/90a9641d9644e1bfbb49m)
-<br>
+<br><br><br>
 [トップページに戻る](https://kitanotamotsu.github.io/)
